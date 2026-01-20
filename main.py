@@ -1,5 +1,5 @@
 # PROJECT TITLE: APPLE (AAPL) STOCK PRICE ANALYSIS
-# AUTHOR: Student Software Engineer
+# AUTHOR: Module 1 - Data Analysis with Python
 # DESCRIPTION:
 # This program analyzes historical Apple stock prices using
 # Python. It downloads data, cleans it, computes indicators,
