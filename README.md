@@ -4,7 +4,7 @@
 
 {This software analyzes Apple stock data, cleans it, calculates moving averages to identify trends, computes daily and cumulative returns to measure performance, visualized the results, and saved the processed data for further analysis}
 
-[Software Demo Video](https://www.loom.com/share/bdb591ea18824aba9df69d7c9eefb2d8)
+[Software Demo Video](https://www.loom.com/share/7b2f6860d36b40ce828a5c87019f7aab)
 
 # Development Environment
 
